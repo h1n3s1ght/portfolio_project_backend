@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "Plan Your Trip",
+    "live": "file:///Users/benjaminhines/Desktop/Projects/project_1/index.html",
+    "git": "https://github.com/h1n3s1ght/plan_your_trip",
+    "image": "https://i.imgur.com/POf06eN.png"
+  },
+  {
+    "name": "PlanIt Traveling",
+    "live": "https://planit-t.herokuapp.com/",
+    "git": "https://github.com/h1n3s1ght/Project2",
+    "image": "https://i.imgur.com/gwEep9P.png"
+  }
+]
